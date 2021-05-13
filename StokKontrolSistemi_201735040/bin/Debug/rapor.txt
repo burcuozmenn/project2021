@@ -1,0 +1,2 @@
+Stok ID         | Ürün Adı        | Stok Durumu     | Son İşlem Tarihi               | Satış Fiyatı   
+3               | Cips            | 33              | 5/13/2021 4:33:00 AM           | 123            
